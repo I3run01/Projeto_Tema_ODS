@@ -233,15 +233,17 @@ header > div:hover {
     
     
     .video {
-        display: auto;
+        text-align: center;
         position: relative;
         overflow-y: hidden;
-        padding: 1%;
-        margin: 2%;
-        text-align: center;
+        overflow-x: hidden;
+        padding-top: 2%;
+        margin: 0px;
     }
     
     .iframe {
+        margin: auto;
+        display: block;
         position: absolute;
         top: 0;
         left: 0;
