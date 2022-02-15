@@ -236,7 +236,6 @@ header > div:hover {
         text-align: center;
         position: relative;
         overflow-y: hidden;
-        overflow-x: hidden;
         padding-top: 2%;
         margin: 0px;
     }
